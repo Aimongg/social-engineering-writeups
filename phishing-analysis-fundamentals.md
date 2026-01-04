@@ -2,7 +2,7 @@
 
 **Platform:** TryHackMe  
 **Category:** Social Engineering / Phishing  
-**Author:** Your Name  
+**Author:** Aiman Solehin  
 **Date:** 4 January 2025  
 
 ---
@@ -38,9 +38,7 @@ The main components analyzed include:
 
 ---
 
-## 4. Methodology (High-Level Walkthrough)
-
-> ⚠️ This section focuses on analysis and awareness, not exploitation.
+## 4. Methodology
 
 ### 4.1 Sender Analysis
 The sender’s email address was examined to determine whether it matched the organization it claimed to represent. Suspicious domains and unusual naming patterns were treated as red flags.
